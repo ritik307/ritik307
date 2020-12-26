@@ -1,5 +1,6 @@
 <h2> Hi, I'm Ritik! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 <!--
 **ritik307/ritik307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
