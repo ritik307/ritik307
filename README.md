@@ -1,8 +1,4 @@
 <h2> Hi, I'm Ritik! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  
  ### Glad to see you here! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; [![Visits Badge](https://badges.pufler.dev/visits/ritik307/ritik307)](https://badges.pufler.dev)
  
