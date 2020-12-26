@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>Software Enginner at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Currently studying at <a href="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
