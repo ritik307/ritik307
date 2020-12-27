@@ -1,7 +1,8 @@
- ![](https://github.com/ritik307/ritik307/blob/main/images/header_.png)
-
 <p align="center">
- <h2> Hi, I'm Ritik! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
+  ![](https://github.com/ritik307/ritik307/blob/main/images/header_.png)
+</p>
+<p align="center">
+ <h2> Hi, I'm Ritik!</h2>
 </p>
 
 
