@@ -1,7 +1,7 @@
 <p align="center">
  
 </p>
-<h2 align="center">Hello there! I'm Ritik 👋🤓</h2>
+<h2 align="center">Hello there! I'm Ritik 👋</h2>
 
 <p align="center">
  
