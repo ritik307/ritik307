@@ -4,10 +4,12 @@
 <h2 align="center">Hello there! I'm Ritik 👋🤓</h2>
 
 <p align="center">
- [![Visits Badge](https://badges.pufler.dev/visits/ritik307/ritik307)](https://badges.pufler.dev)
- [![Years Badge](https://badges.pufler.dev/years/ritik307)](https://badges.pufler.dev)
- [![Repos Badge](https://badges.pufler.dev/repos/ritik307)](https://badges.pufler.dev)
- [![Commits Badge](https://badges.pufler.dev/commits/monthly/ritik307)](https://badges.pufler.dev)
+ 
+ <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/>
+ <img src="https://badges.pufler.dev/years/ritik307"/>
+ <img src="https://badges.pufler.dev/repos/ritik307"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+
 </p>
 
 <p align="center">
