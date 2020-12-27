@@ -1,6 +1,10 @@
-<h2> Hi, I'm Ritik! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
-
  ![](https://github.com/ritik307/ritik307/blob/main/images/header_.png)
+
+<p align="center">
+ <h2> Hi, I'm Ritik! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
+</p>
+
+
  
  I'm a 2nd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
  
