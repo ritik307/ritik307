@@ -1,7 +1,7 @@
 <p align="center">
  
-</p>
-<h2 align="center">Hello there! I'm Ritik 👋</h2>
+</p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
 
 <p align="center">
  
