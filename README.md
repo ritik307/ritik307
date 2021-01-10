@@ -54,9 +54,10 @@
  
 <br>
 <p align = "center">
-  <img width="105%" src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img width="105%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=css,java,html&theme=radical">
 </p>
 <p align = "center">
- <img width="105%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=css,java,html&theme=radical">
+ 
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
