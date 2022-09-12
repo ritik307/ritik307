@@ -7,18 +7,14 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
-
+ 
 </p>
 
 <!-- <p align="center">
   
 </p>   -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/reinchemo/reinchemo/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Full Stack  Developer<img src="https://github.com/reinchemo/reinchemo/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
