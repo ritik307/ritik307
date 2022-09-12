@@ -79,4 +79,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=reinchemo&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">If you like it, you can follow me and star ⭐</p>
