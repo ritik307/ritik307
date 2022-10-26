@@ -21,8 +21,8 @@ I am a front end software and web developer with a keen interest in designing el
 
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
+<!-- <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+ -->
 <p align="center">
 
  <a href="  https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
