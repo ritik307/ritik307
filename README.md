@@ -17,7 +17,7 @@
 <h2 align="center">My skills</h2>
 
 <p align="center">
-I am a front end software and web developer with a keen interest in designing elegant solutions to technical problems. I am skilled in problem-solving and can leverage full knowledge and experience to build and scale user-centered software designs. I am a highly motivated self-starter and team player. Also, I'm a quick learner and have a keen eye for detail.
+I am a full-stack developer with a keen interest in designing elegant solutions to technical problems. I am skilled in problem-solving and can leverage full knowledge and experience to build and scale user-centered software designs. I am a highly motivated self-starter and team player. Also, I'm a quick learner and have a keen eye for detail.
 
 </p>
 
