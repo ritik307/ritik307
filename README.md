@@ -55,9 +55,9 @@ I am a front end software and web developer with a keen interest in designing el
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=reinchemo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
+<!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=reinchemo&theme=redical">
-</p> 
+</p>  -->
 <hr>
 <p align="center">If you like it, you can follow me and star ⭐</p>
 
