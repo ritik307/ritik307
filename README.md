@@ -31,14 +31,17 @@ I am a front end software and web developer with a keen interest in designing el
 
 
 <h2 align="center">
-  My Snake Contribution Grid <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Snake Contribution Grid
+<!--   My Snake Contribution Grid <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> -->
 </h2>
 <p align="center">
   <img src="https://github.com/reinchemo/reinchemo/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ My Github Stats
+ 
+<!--   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 </h2>
  
 <br>
