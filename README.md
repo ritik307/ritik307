@@ -59,5 +59,5 @@ I am a front end software and web developer with a keen interest in designing el
  <img src="https://activity-graph.herokuapp.com/graph?username=reinchemo&theme=redical">
 </p>  -->
 <hr>
-<p align="center">If you like it, you can follow me and star ⭐</p>
+<p align="center">Am open to work!!⭐</p>
 
