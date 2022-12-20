@@ -17,7 +17,7 @@
 <h2 align="center">My skills</h2>
 
 <p align="center">
-I am a full-stack developer with a keen interest in designing elegant solutions to technical problems. I am skilled in problem-solving and can leverage full knowledge and experience to build and scale user-centered software designs. I am a highly motivated self-starter and team player. Also, I'm a quick learner and have a keen eye for detail.
+A Junior software developer. Specialized in Website development. I design responsive client side UI , am a highly motivated self-starter, team player and also a flexible quick learner.
 
 </p>
 
@@ -51,13 +51,10 @@ I am a full-stack developer with a keen interest in designing elegant solutions 
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&hide=html,shaderlab,kotlin,hlsl&theme=radical"> -->
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=reinchemo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
 
 <!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=reinchemo&theme=redical">
 </p>  -->
 <hr>
-<p align="center">Am open to work!!⭐</p>
+<p align="center">Ready for hire ⭐</p>
 
