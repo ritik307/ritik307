@@ -18,6 +18,7 @@
 
 <p align="center">
 A Junior software developer. Specialized in Website development. I design responsive client side UI , am a highly motivated self-starter, team player and also a flexible quick learner.
+
 My portfolio https://reinchemo.github.io/resume/
 
 </p>
