@@ -19,7 +19,7 @@
 <p align="center">
 A Junior software developer. Specialized in Website development. I design responsive client side UI , am a highly motivated self-starter, team player and also a flexible quick learner.
 
-My portfolio https://reinchemo.github.io/resume/
+                                                 My portfolio https://reinchemo.github.io/resume/
 
 </p>
 
@@ -54,9 +54,10 @@ My portfolio https://reinchemo.github.io/resume/
 </p>
 
 
-<!-- <p align = "center">
+ <!-- <p align = "center"> 
  <img src="https://activity-graph.herokuapp.com/graph?username=reinchemo&theme=redical">
 </p>  -->
 <hr>
 <p align="center">Ready for hire ⭐</p>
 
+                            
